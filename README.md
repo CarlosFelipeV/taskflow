@@ -10,5 +10,4 @@ Sistema de gerenciamento de tarefas.
 
 ## Como rodar
 
-```bash
 docker-compose up --build
